@@ -1,0 +1,84 @@
+.second-navbar-container{
+    width: 1366;
+    height: 40px;
+    background-color: #242F3E;
+    display: flex;
+    align-items: center;
+}
+
+.burger-menu-button{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    border: none;
+    background-color: #242F3E;
+    margin-left: 24px;
+    width: 55;
+    height: 24;
+}
+
+.burger-icon{
+    color: white;
+    height: 24px;
+    width: 24px;
+}
+
+.second-navbar-text{
+    font-size: 12px;
+    color: white;
+    font-weight: 700;
+}
+
+.second-second-navbar-button{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    border: none;
+    background-color: #242F3E;
+    margin-left: 24px;
+}
+
+.thirth-second-navbar-button{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    border: none;
+    background-color: #242F3E;
+    margin-left: 24px;
+}
+
+.fourth-second-navbar-button{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    border: none;
+    background-color: #242F3E;
+    margin-left: 24px;
+}
+
+.fith-second-navbar-button{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    border: none;
+    background-color: #242F3E;
+    margin-left: 24px;
+}
+
+.six-second-navbar-button{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    border: none;
+    background-color: #242F3E;
+    margin-left: 24px;
+}
+
+.seven-second-navbar-button{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    border: none;
+    background-color: #242F3E;
+    margin-left: 24px;
+}

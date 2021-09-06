@@ -1,0 +1,18 @@
+.thirth-navbar-container{
+    width: 1366px;
+    height: 40px;
+    background-color: #FAFAFA;
+    display: flex;
+    align-items: center;
+}
+
+.thirth-navbar-button{
+    font-size: 12px;
+    color: #333333;
+    margin-left: 20px;
+    height: 24px;
+    border: none;
+    display: flex;
+    align-items: center;
+    background-color: #FAFAFA;
+}
